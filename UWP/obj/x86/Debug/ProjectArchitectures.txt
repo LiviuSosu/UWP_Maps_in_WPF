@@ -1,0 +1,1 @@
+C:\Users\LSosu\source\repos\UWP_in_WPF\UWP\UWP.csproj;x86

@@ -1,0 +1,11 @@
+C:\Users\LSosu\source\repos\UWP_in_WPF\WpfMap\bin\Debug\netcoreapp3.0\WpfMap.exe
+C:\Users\LSosu\source\repos\UWP_in_WPF\WpfMap\obj\Debug\netcoreapp3.0\WpfMap.csprojAssemblyReference.cache
+C:\Users\LSosu\source\repos\UWP_in_WPF\WpfMap\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\LSosu\source\repos\UWP_in_WPF\WpfMap\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\LSosu\source\repos\UWP_in_WPF\WpfMap\obj\Debug\netcoreapp3.0\WpfMap_MarkupCompile.cache
+C:\Users\LSosu\source\repos\UWP_in_WPF\WpfMap\obj\Debug\netcoreapp3.0\WpfMap_MarkupCompile.lref
+C:\Users\LSosu\source\repos\UWP_in_WPF\WpfMap\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\LSosu\source\repos\UWP_in_WPF\WpfMap\obj\Debug\netcoreapp3.0\WpfMap.g.resources
+C:\Users\LSosu\source\repos\UWP_in_WPF\WpfMap\obj\Debug\netcoreapp3.0\WpfMap.AssemblyInfoInputs.cache
+C:\Users\LSosu\source\repos\UWP_in_WPF\WpfMap\obj\Debug\netcoreapp3.0\WpfMap.AssemblyInfo.cs
+C:\Users\LSosu\source\repos\UWP_in_WPF\WpfMap\obj\Debug\netcoreapp3.0\WpfMap.pdb
